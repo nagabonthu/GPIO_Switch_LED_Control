@@ -46,5 +46,3 @@ If *Switch 2 is released* (while Switch 1 is pressed):
 If *Switch 1 is not pressed*:  
 - Both LEDs remain OFF  
 
-
-## 📁 Project Structure
