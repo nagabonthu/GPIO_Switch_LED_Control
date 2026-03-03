@@ -1,3 +1,5 @@
+# GPIO Switch Controlled LED Logic (ARM7 LPC21xx) 
+
 ## Overview
 This project demonstrates basic GPIO input and output control using the ARM7 LPC21xx microcontroller. Two push-button switches are used to control two LEDs based on defined logic conditions.
 
@@ -6,14 +8,14 @@ The project focuses on understanding:
 	•	Bit manipulation
 	•	Active-low switch logic
 	•	Conditional control of multiple outputs
-# GPIO Switch Controlled LED Logic (ARM7 LPC21xx)  
+ 
 
-## Hardware Used
-	•	LPC21xx (ARM7TDMI) Microcontroller
-	•	2 Push Button Switches
-	•	2 LEDs
-	•	Regulated Power Supply
-  
+## Hardware
+LPC2129 Microcontroller
+2 Push Button Switches
+2 LEDs
+Regulated Power Supply
+
   ## Software 
 	•	Embedded C
 	•	Keil µVision IDE
